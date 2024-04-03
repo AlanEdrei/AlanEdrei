@@ -14,19 +14,12 @@ I aspire to participate in the growing relationship between brain and technology
 ## Scientific dissemination:
 Content creator at YouTube: Channel ["The_Neurosapiens"](https://www.youtube.com/@the_neurosapiens).
 
-### Programming languages:
-
-- Python
-- MatLab
-- SQL
-- R
-- HTML
-- CSS
-- JavaScript
-
-### Libraries and Frameworks:
-
-- Tensor Flow
-- numpy
-- matplotlib
-- pandas
+| Programming languages: | Libraries and Frameworks: |
+|------------------------|---------------------------|
+| - Python               | - Tensor Flow             |
+| - MatLab               | - numpy                   |
+| - SQL                  | - matplotlib              |
+| - R                    | - pandas                  |
+| - HTML                 |                           |
+| - CSS                  |                           |
+| - JavaScript           |                           |
