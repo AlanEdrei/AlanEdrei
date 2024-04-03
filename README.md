@@ -1,4 +1,4 @@
-# Alan Edrei Flores Gaona 
+## Alan Edrei Flores Gaona 
 # Neuroscience, Language, and Engineering
 
 ## ABOUT ME:
