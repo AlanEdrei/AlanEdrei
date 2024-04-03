@@ -14,7 +14,7 @@ I aspire to participate in the growing relationship between brain and technology
 ## Scientific dissemination:
 Content creator at YouTube: Channel ["The_Neurosapiens"](https://www.youtube.com/@the_neurosapiens).
 
-##Code:
+## Code:
 
 | Programming languages: | Libraries and Frameworks: |
 |------------------------|---------------------------|
