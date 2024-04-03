@@ -11,7 +11,7 @@ I believe in the value and potential of studying, questioning, and sharing that 
 I aspire to participate in the growing relationship between brain and technology. My goal will be to take advantage of new technological possibilities not only to enhance the senses or make distractions more attractive. On the contrary, I hope that the future will also provide new ways of acquiring, managing, and leveraging knowledge. Pleasure and comfort have a limit, human development and knowledge do not
 
 
-## scientific dissemination
+## Scientific dissemination:
 Content creator at YouTube: Channel ["The_Neurosapiens"](https://www.youtube.com/@the_neurosapiens).
 
 ### Programming languages:
